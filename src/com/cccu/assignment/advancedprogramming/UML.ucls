@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.cccu.assignment.advancedprogramming.Person" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Person.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="220" x="420" y="1569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.PersonGraphic" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="200" x="2665" y="1569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.cccu.assignment.advancedprogramming.FloorButton" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/FloorButton.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="200" x="701" y="1569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.ButtonGraphic" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="200" x="1882" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.cccu.assignment.advancedprogramming.ConsoleView" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/ConsoleView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="200" x="1779" y="777"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="200" x="2583" y="777"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="com.cccu.assignment.advancedprogramming.DoorObserver" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/DoorObserver.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="1078" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="8" language="java" name="com.cccu.assignment.advancedprogramming.Subject" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Subject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="200" x="350" y="2032"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="9" language="java" name="com.cccu.assignment.advancedprogramming.ControllerInterface" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/ControllerInterface.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="200" x="442" y="440"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.TextGraphic" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="200" x="2122" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.cccu.assignment.advancedprogramming.Floor" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Floor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="200" x="390" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="com.cccu.assignment.advancedprogramming.PersonObserver" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/PersonObserver.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="200" x="996" y="2032"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.LiftDisplay" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="200" x="2362" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="com.cccu.assignment.advancedprogramming.LiftButtonObserver" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/LiftButtonObserver.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="1057" y="1569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.DoorGraphic" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="200" x="2926" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.cccu.assignment.advancedprogramming.LiftButton" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/LiftButton.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="232" x="743" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="17" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.DIRECTION" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="200" x="2886" y="2032"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="18" language="java" name="com.cccu.assignment.advancedprogramming.GuiView.ButtonPress" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/GuiView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="1039" y="440"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.LiftGraphic" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="200" x="2623" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.cccu.assignment.advancedprogramming.Button" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Button.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="200" x="722" y="777"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.cccu.assignment.advancedprogramming.Door" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Door.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="200" x="169" y="777"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.cccu.assignment.advancedprogramming.Model" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Model.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="296" x="682" y="440"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" language="java" name="com.cccu.assignment.advancedprogramming.LiftObserverView" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/LiftObserverView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="1318" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="24" language="java" name="com.cccu.assignment.advancedprogramming.FloorButtonObserver" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/FloorButtonObserver.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="1842" y="2032"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="25" language="java" name="com.cccu.assignment.advancedprogramming.Controller" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Controller.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="200" x="628" y="211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="com.cccu.assignment.advancedprogramming.ModelObserver" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/ModelObserver.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="200" x="1558" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="com.cccu.assignment.advancedprogramming.GuiView" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/GuiView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="200" x="1260" y="211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.cccu.assignment.advancedprogramming.TextView" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/TextView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="200" x="1038" y="777"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="29" language="java" name="com.cccu.assignment.advancedprogramming.AnimationPanel.OPERATION" 
+    project="AssignmentAP2" file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/AnimationPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="200" x="2947" y="1569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="30" language="java" name="com.cccu.assignment.advancedprogramming.Lift" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/Lift.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="200" x="430" y="777"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.cccu.assignment.advancedprogramming.ButtonFactory" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/ButtonFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="148" y="211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.cccu.assignment.advancedprogramming.MVC" project="AssignmentAP2" 
+    file="/AssignmentAP2/src/com/cccu/assignment/advancedprogramming/MVC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="388" y="211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="33">    
+    <bendpoint x="1830" y="1196"/>    
+    <bendpoint x="1851" y="1569"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="34">    
+    <bendpoint x="691" y="777"/>    
+    <bendpoint x="691" y="1196"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="35" name="mFloorButtons"/>      
+      <multiplicity id="36" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="38" name="mModel"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="40">    
+    <bendpoint x="1026" y="1196"/>    
+    <bendpoint x="1026" y="1569"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="41">    
+    <bendpoint x="1930" y="440"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="42" name="uiAnimationPanel"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="44">    
+    <bendpoint x="712" y="1196"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <realization id="45">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <nesting id="46">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <association id="47">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="48" name="mButtons"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="50">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="51">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="52" name="peopleInLift"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="55" name="mLift"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="57">    
+    <bendpoint x="268" y="1196"/>    
+    <bendpoint x="268" y="1569"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <nesting id="58">    
+    <bendpoint x="3156" y="1196"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <realization id="59">    
+    <bendpoint x="1788" y="1196"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="60">    
+    <bendpoint x="1047" y="1196"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="61">    
+    <bendpoint x="2592" y="1196"/>    
+    <bendpoint x="2592" y="1569"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="62">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="63" name="operation"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="66" name="mDestinationFloor"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="69" name="testCaseText"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <bendpoint x="1269" y="440"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="72" name="uiTextArea"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="74">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <realization id="75">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <association id="76">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="77" name="mObservers"/>      
+      <multiplicity id="78" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="80" name="mFloor"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <bendpoint x="2874" y="1196"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="83" name="mPeople"/>      
+      <multiplicity id="84" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="85">    
+    <bendpoint x="931" y="1569"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <realization id="87">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="88">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="89" name="mObservers"/>      
+      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="92" name="mPeopleWaitingOnFloor"/>      
+      <multiplicity id="93" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="94">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <association id="95">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="96" name="mCurrentFloor"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="99" name="mButton"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="101">    
+    <bendpoint x="2895" y="1196"/>    
+    <bendpoint x="2895" y="1569"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="102">    
+    <bendpoint x="670" y="777"/>    
+    <bendpoint x="670" y="1196"/>    
+    <bendpoint x="670" y="1569"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="103" name="mPersonObservers"/>      
+      <multiplicity id="104" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="106" name="mLift"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="108">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="109">    
+    <bendpoint x="399" y="777"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="110" name="mFloors"/>      
+      <multiplicity id="111" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="112">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="113">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="114">    
+    <bendpoint x="641" y="1196"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="115" name="mLift"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="117">    
+    <bendpoint x="1809" y="1196"/>    
+    <bendpoint x="1809" y="1569"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="118">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="119" name="mDoors"/>      
+      <multiplicity id="120" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="122" name="mObservers"/>      
+      <multiplicity id="123" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="124">    
+    <bendpoint x="138" y="777"/>    
+    <bendpoint x="138" y="1196"/>    
+    <bendpoint x="138" y="1569"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <realization id="125">    
+    <bendpoint x="1005" y="1196"/>    
+    <bendpoint x="1005" y="1569"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="126">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="127">    
+    <bendpoint x="1851" y="1196"/>    
+    <bendpoint x="1830" y="1569"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="128">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="129">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="130" name="mFloor"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="133" name="mLiftFloors"/>      
+      <multiplicity id="134" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="136" name="mDoors"/>      
+      <multiplicity id="137" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="139" name="mButtons"/>      
+      <multiplicity id="140" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="142" name="mLiftDisplay"/>      
+      <multiplicity id="143" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="144">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="145" name="mObservers"/>      
+      <multiplicity id="146" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="147">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="148" name="mPeopleOnFloor"/>      
+      <multiplicity id="149" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="150">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="151" name="mController"/>      
+      <multiplicity id="152" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="153">    
+    <bendpoint x="1268" y="777"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="154" name="mModelObservers"/>      
+      <multiplicity id="155" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="156">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="157">    
+    <bendpoint x="952" y="777"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="158" name="mLiftButtons"/>      
+      <multiplicity id="159" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="161" name="travelDirection"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="163">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="164">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="165">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="166" name="mDoor"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="169" name="mModel"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="171">    
+    <bendpoint x="2853" y="1196"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <realization id="172">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="173">    
+    <bendpoint x="620" y="1196"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="174" name="mPeopleInLift"/>      
+      <multiplicity id="175" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="176">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <association id="177">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="178" name="mLiftInstant"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="180">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="181" name="mObservers"/>      
+      <multiplicity id="182" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="183">    
+    <bendpoint x="359" y="1196"/>    
+    <bendpoint x="359" y="1569"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <association id="184">    
+    <bendpoint x="1528" y="440"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="185" name="consoleView"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="187">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="188">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="189" name="mDestinationFloor"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="192" name="mLift"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="195" name="mAvaliableFloors"/>      
+      <multiplicity id="196" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
