@@ -417,15 +417,15 @@ public class AnimationPanel extends JPanel implements DoorObserver, FloorButtonO
 			
 			if(travelDirection == DIRECTION.LEFT) {
 				if(walking) {
-					img = new ImageIcon(getClass().getResource("LeftWalk" + igNumber + ".png"));
+					img = new ImageIcon(getClass().getResource("Assets/LeftWalk" + igNumber + ".png"));
 				}else {
-					img = new ImageIcon(getClass().getResource("WaitLeft.png"));
+					img = new ImageIcon(getClass().getResource("Assets/WaitLeft.png"));
 				}
 			}else if(travelDirection == DIRECTION.RIGHT) {
 				if(walking) {
-					img = new ImageIcon(getClass().getResource("RightWalk" + igNumber + ".png"));
+					img = new ImageIcon(getClass().getResource("Assets/RightWalk" + igNumber + ".png"));
 				}else {
-					img = new ImageIcon(getClass().getResource("WaitRight.png"));
+					img = new ImageIcon(getClass().getResource("Assets/WaitRight.png"));
 				}
 			}
 			

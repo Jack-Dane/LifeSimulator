@@ -31,7 +31,7 @@ public class GuiView extends JFrame{
 	public GuiView(ControllerInterface controller, Model model) {
 		super("Lift Simulator");
 		
-		mFrameIcon = new ImageIcon(getClass().getResource("LiftIcon.png"));
+		mFrameIcon = new ImageIcon(getClass().getResource("Assets/LiftIcon.png"));
 		this.setIconImage(mFrameIcon.getImage());
 		
 		setResizable(false);
